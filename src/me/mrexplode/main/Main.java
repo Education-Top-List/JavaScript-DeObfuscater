@@ -1,4 +1,4 @@
-package me.sunstorm.main;
+package me.mrexplode.main;
 
 import java.awt.GraphicsEnvironment;
 import java.io.BufferedReader;
